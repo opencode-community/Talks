@@ -1,26 +1,21 @@
 **Abstract**
-	Provide a brief introduction about the talk.
-    Also list the topics that the talk is going to cover.
-        
-**Expected Duration**
-    Approximate duration of the talk.
+	Provide a brief about the series.
+    	Also list the topics that the talks are going to cover.
 
-**Track**
-   	OpenCode-MAIT talks are divided intro three tracks:
-    	- Beginner
-        - Intermediate
-        - Advanced
-
+**Overview**
+   	The list of proposed talks :
+	- Talk 1
+	- Talk 2
+	- Talk 3
+	- Talk 4
+	
 **Pre-requisite**
-   	Enlist here if there are any pre-requisite for attending the talk.
+   	Enlist here if there are any pre-requisite for attending the series.
         
 **Resources**
     Links to resources related to the talk and from where one can 
     read up on the same.
 
-**Slides**
-    Links to the slides.(if ready)
-    
 ---
 ### Note
 Please do add/upload slides in pdf or an open document format.
