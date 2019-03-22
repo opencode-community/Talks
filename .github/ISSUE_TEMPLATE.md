@@ -6,7 +6,7 @@
     Approximate duration of the talk.
 
 **Track**
-   	ILUG-D talks are divided intro three tracks:
+   	OpenCode-MAIT talks are divided intro three tracks:
     	- Beginner
         - Intermediate
         - Advanced
@@ -19,7 +19,7 @@
     read up on the same.
 
 **Slides**
-    Links to the slides.
+    Links to the slides.(if ready)
     
 ---
 ### Note
